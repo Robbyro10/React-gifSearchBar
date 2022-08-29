@@ -19,7 +19,7 @@ export const GifSearchBarApp = () => {
     return (
         <>
             <h1>Looking for a GIF?</h1>
-            <p>Looking for change</p>
+
             <div className="gif-search">
                 <AddCategory 
                     onNewCategory={onAddCategory} 
